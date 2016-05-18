@@ -1,5 +1,8 @@
 package AC_2060;
-
+/**
+ * @author LIn
+ * 以七个球为分界线，小于7即全是色球，大于7的红黑交替得最高分
+ */
 import java.util.Scanner;
 
 public class Main_2060 {

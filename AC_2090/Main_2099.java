@@ -1,5 +1,7 @@
 package AC_2090;
-
+/**
+ * @author LIn
+ */
 import java.util.Scanner;
 
 public class Main_2099 {

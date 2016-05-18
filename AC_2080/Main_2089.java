@@ -1,5 +1,7 @@
 package AC_2080;
-
+/**
+ * 排除有"4"和"62"子串的数字串
+ */
 import java.util.Scanner;
 
 public class Main_2089 {
