@@ -2,9 +2,9 @@ package AC_2070;
 
 import java.util.Scanner;
 /**
- * 
+ *  
  * @author LIn
- * 完全背包问题
+ * 动态规划解完全背包问题
  */
 public class Main_2079 {
 
