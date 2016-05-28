@@ -1,5 +1,8 @@
 package AC_2090;
-
+/**
+ * @author LIn
+ * ×¢£ºÎ´ÄÜAC,Time Limit Exceeded
+ */
 import java.util.Scanner;
 
 
