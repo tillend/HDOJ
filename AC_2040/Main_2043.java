@@ -1,5 +1,8 @@
 package AC_2040;
-
+/**
+ * @author LIn
+ * ÏêÏ¸½âÎö£ºhttp://blog.csdn.net/why_still_confused/article/details/51199772
+ */
 import java.util.Scanner;
 
 public class Main_2043 {

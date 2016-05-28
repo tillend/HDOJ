@@ -1,5 +1,9 @@
 package AC_2050;
-
+/**
+ * 
+ * @author LIn
+ * ÏêÏ¸½âÎö£ºhttp://blog.csdn.net/why_still_confused/article/details/51232554
+ */
 import java.util.Scanner;
 
 public class Main_2058 {

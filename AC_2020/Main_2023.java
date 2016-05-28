@@ -1,7 +1,8 @@
 package AC_2020;
-/*求平均成绩
- * 
- * 
+/**
+ * @author LIn
+ * 问题：求平均成绩
+ * 详细解析：http://blog.csdn.net/why_still_confused/article/details/51222366
  * */
 import java.util.Scanner;
 

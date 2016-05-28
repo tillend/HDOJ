@@ -1,5 +1,8 @@
 package AC_2030;
-
+/**
+ * @author LIn
+ * ÏêÏ¸½âÎö£ºhttp://blog.csdn.net/why_still_confused/article/details/51199493
+ */
 import java.util.Arrays;
 import java.util.Scanner;
 
