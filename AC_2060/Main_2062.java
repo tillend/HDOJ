@@ -2,7 +2,7 @@ package AC_2060;
 /**
  * @author LIn
  * 思路来自于：http://blog.csdn.net/lianqi15571/article/details/8877014
- * 注：
+ * 注：未能AC,Time Limit Exceeded
  */
 import java.util.Scanner;
 
